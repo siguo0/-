@@ -5,3 +5,20 @@ A search engine with text search &amp; image search &amp; text classify &amp; si
 ![image](https://user-images.githubusercontent.com/46164563/198068007-7cc44103-fce4-4872-93a8-b63f18633ca7.png)
 ![image](https://user-images.githubusercontent.com/46164563/198068024-ee7b30c8-7034-4e78-a38c-84dc8693658c.png)
 ![image](https://user-images.githubusercontent.com/46164563/198068046-b3b2d2ad-4439-421e-9bfc-3efe66fcaad6.png)
+
+
+--
+文本分类
+数据集：清华NLP组开源的THUNews 
+算法：TFIDF + LightGBM
+
+以图搜图
+数据集：kaggle开源animals-10
+算法：EfficientNetB0在imageNet上的迁移学习
+
+问答系统
+数据集：自行爬取的百度百科各词条基本信息栏
+算法：命名实体识别 + Word2Vec
+
+
+我们实现了一个功能较为完善的搜索引擎系统，包含前端网页、后端服务器，内网穿透等提高用户交互性的设计以及文本搜索、文本分类、以图搜图、问答系统等功能接口的实现。
