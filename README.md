@@ -8,17 +8,17 @@ A search engine with text search &amp; image search &amp; text classify &amp; si
 
 
 <br>
-文本分类
-数据集：清华NLP组开源的THUNews 
-算法：TFIDF + LightGBM
+文本分类<br>
+数据集：清华NLP组开源的THUNews <br>
+算法：TFIDF + LightGBM<br>
 
-以图搜图
-数据集：kaggle开源animals-10
-算法：EfficientNetB0在imageNet上的迁移学习
+以图搜图<br>
+数据集：kaggle开源animals-10<br>
+算法：EfficientNetB0在imageNet上的迁移学习<br>
 
-问答系统
-数据集：自行爬取的百度百科各词条基本信息栏
+问答系统<br>
+数据集：自行爬取的百度百科各词条基本信息栏<br>
 算法：命名实体识别 + Word2Vec
-
-
+<br>
+<br>
 我们实现了一个功能较为完善的搜索引擎系统，包含前端网页、后端服务器，内网穿透等提高用户交互性的设计以及文本搜索、文本分类、以图搜图、问答系统等功能接口的实现。
