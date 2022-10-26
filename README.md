@@ -7,7 +7,7 @@ A search engine with text search &amp; image search &amp; text classify &amp; si
 ![image](https://user-images.githubusercontent.com/46164563/198068046-b3b2d2ad-4439-421e-9bfc-3efe66fcaad6.png)
 
 
---
+<br>
 文本分类
 数据集：清华NLP组开源的THUNews 
 算法：TFIDF + LightGBM
