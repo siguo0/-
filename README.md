@@ -17,6 +17,9 @@
 我们实现了一个功能较为完善的搜索引擎系统，包含前端网页、后端服务器，内网穿透等提高用户交互性的设计以及文本搜索、文本分类、以图搜图、问答系统等功能接口的实现。
 
 
+前端部分由另一名同学实现，原生html css js vue，仿百度界面
+地址：https://github.com/WJW53/WenHai_SE
+
 A search engine with text search &amp; image search &amp; text classify &amp; simble QA
 ![image](https://user-images.githubusercontent.com/46164563/198067926-163e89b0-3e80-4238-8ad2-13e7ed843edf.png)
 ![image](https://user-images.githubusercontent.com/46164563/198067990-f08252c4-423e-4663-9c95-576f94940361.png)
