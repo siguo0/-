@@ -3,8 +3,9 @@
 <br>
 文本分类<br>
 数据集：清华NLP组开源的THUNews <br>
-算法：TFIDF + LightGBM<br>
-
+算法：TFIDF + LightGBM
+<br>
+<br>
 以图搜图<br>
 数据集：kaggle开源animals-10<br>
 算法：EfficientNetB0在imageNet上的迁移学习
