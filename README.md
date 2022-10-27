@@ -18,7 +18,7 @@
 
 
 前端部分由另一名同学实现，原生html css js vue，仿百度界面
-地址：https://github.com/WJW53/WenHai_SE
+<br>地址：https://github.com/WJW53/WenHai_SE
 
 A search engine with text search &amp; image search &amp; text classify &amp; simble QA
 ![image](https://user-images.githubusercontent.com/46164563/198067926-163e89b0-3e80-4238-8ad2-13e7ed843edf.png)
